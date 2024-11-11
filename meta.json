@@ -1,8 +1,8 @@
 {
   "$schema": "https://dl.viam.dev/module.schema.json",
   "module_id": "huntervolkman:person-detection-sensor",
-  "visibility": "private",
-  "url": "",
+  "visibility": "public",
+  "url": "https://github.com/hunter-volkman/person-detection-sensor",
   "description": "Modular sensor component: person-detector",
   "models": [
     {

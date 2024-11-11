@@ -1,0 +1,15 @@
+{
+  "$schema": "https://dl.viam.dev/module.schema.json",
+  "module_id": "huntervolkman:person-detection-sensor",
+  "visibility": "private",
+  "url": "",
+  "description": "Modular sensor component: person-detector",
+  "models": [
+    {
+      "api": "rdk:component:sensor",
+      "model": "huntervolkman:person-detection-sensor:person-detector"
+    }
+  ],
+  "entrypoint": "./run.sh",
+  "first_run": ""
+}
